@@ -11,7 +11,7 @@ categories = [
 ]
 series = ["Cocos"]
 # aliases = ["migrate-from-jekyl"]
-image = "cocos-logo.jpg"
+image = "cocos-logo.png"
 +++
 
 ## Cocos & Spine

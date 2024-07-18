@@ -188,9 +188,9 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
-            local: false
-            src:
+            enabled: true
+            local: true
+            src: img/avatar.jpg
 
     colorScheme:
         # Display toggle
